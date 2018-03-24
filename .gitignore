@@ -96,3 +96,4 @@ ENV/
 
 # Custom files
 local
+*.h5
