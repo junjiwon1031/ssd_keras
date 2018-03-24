@@ -97,3 +97,4 @@ ENV/
 # Custom files
 local
 *.h5
+evaluation_results*
